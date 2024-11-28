@@ -1,4 +1,4 @@
-package info.hccis.assignment.bo;
+package ca.hccis.flowerShop;
 
 import java.util.Scanner;
 
